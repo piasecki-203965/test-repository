@@ -73,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -264,7 +264,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/build.gradle" value="294393545" />
+        <entry key="$PROJECT_DIR$" value="4561894764339" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1478913714" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1970435619" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2298723255" />
       </map>
@@ -374,6 +375,11 @@
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -388,7 +394,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -414,29 +420,29 @@
         <subPane>
           <expand>
             <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -444,20 +450,20 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -758,7 +764,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520631553404</updated>
-      <workItem from="1520631554804" duration="393000" />
+      <workItem from="1520631554804" duration="474000" />
     </task>
     <servers />
   </component>
@@ -774,10 +780,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="393000" />
+    <option name="totallyTimeSpent" value="474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -838,7 +844,7 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding />
         </state>
       </provider>
