@@ -1,60 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbf62809-43e9-4031-bd53-87b7057f2b1e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/4.5.1/fileChanges/last-build.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/4.5.1/fileContent/annotation-processors.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/4.5.1/fileContent/fileContent.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/4.5.1/fileHashes/fileHashes.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/4.5.1/fileHashes/fileHashes.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/4.5.1/fileHashes/resourceHashesCache.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/4.5.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/testProject/.gradle/4.5.1/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/4.5.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/testProject/.gradle/4.5.1/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/testProject/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/testProject/.gradle/buildOutputCleanup/cache.properties" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/testProject/.gradle/buildOutputCleanup/outputFiles.bin" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/vcsWorkingDirs/gc.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/workspace-id.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.gradle/workspace-id.txt.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.idea/.name" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.idea/gradle.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.idea/libraries/Gradle__junit_junit_4_12.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.idea/libraries/Gradle__org_projectlombok_lombok_1_16_20.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.idea/modules.xml" afterPath="$PROJECT_DIR$/testProject/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/testProject/.idea/modules/test-project.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.idea/modules/test-project_main.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.idea/modules/test-project_test.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/testProject/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/testProject/build.gradle" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/build/reports/tests/test/classes/model.PersonTest.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/build/reports/tests/test/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/build/reports/tests/test/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/build/reports/tests/test/js/report.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/build/reports/tests/test/packages/model.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/build/test-results/test/TEST-model.PersonTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/build/test-results/test/binary/output.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/build/test-results/test/binary/results.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/testProject/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="$PROJECT_DIR$/testProject/pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/settings.gradle" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/src/main/java/pl/lodz/p/test/MainApp.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/src/main/java/pl/lodz/p/test/model/Person.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/src/test/java/model/PersonTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/target/surefire-reports/TEST-model.PersonTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/target/surefire-reports/model.PersonTest.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testProject/test-project.iml" afterPath="" />
-    </list>
+    <list default="true" id="fbf62809-43e9-4031-bd53-87b7057f2b1e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -599,12 +546,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520632572458</updated>
-      <workItem from="1520632574323" duration="39000" />
+      <workItem from="1520632574323" duration="637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39000" />
+    <option name="totallyTimeSpent" value="637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
