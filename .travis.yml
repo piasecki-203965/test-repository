@@ -1,8 +1,9 @@
 install: gradle wrapper --gradle-version 4.2
 
 language: java
+script:
+ - mvn clean install test
+ - gradle test
 
 before_install:
  - chmod +x gradlew
-
-gradle test
